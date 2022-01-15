@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pranav Jojan</h1>
-<h3 align="center">An individual with a curious mind of learning new technologies!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chantya127&label=Profile%20views&color=0e75b6&style=flat" alt="chantya127" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chantya127" alt="chantya127" /></a> </p>
@@ -10,8 +8,6 @@
 - 📫 How to reach me **pranavjojan2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JRlOM7tEBi4whTPqLr0au_wcmA3ms-Ji/view?usp=sharing](https://drive.google.com/file/d/1JRlOM7tEBi4whTPqLr0au_wcmA3ms-Ji/view?usp=sharing)
-
-- ⚡ Fun fact **Humans are the most developed spices on earth due to extreme selfishness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
