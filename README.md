@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Jojan</h1>
+<h1 align="center">Hi 👋, I'm Chantya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chantya127&label=Profile%20views&color=0e75b6&style=flat" alt="chantya127" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chantya127" alt="chantya127" /></a> </p>
